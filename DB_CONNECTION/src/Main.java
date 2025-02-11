@@ -7,7 +7,7 @@ public class Main {
 
         String url = "jdbc:mysql://127.0.0.1:3306/login_schema";
         String username = "root";
-        String password = "8129057270";
+        String password = "*********";
 
         try {
             Connection conn = DriverManager.getConnection(url, username, password);
